@@ -1,4 +1,4 @@
-1. Class, Random, matrix, set get,  private public, constructor
+**1. Class, Random, matrix, set get,  private public, constructor**
     * ստեղծել Կլասս որը կպարունակի NxN չափերով մատրիցա
     * Կլասսում պահել private դաշտեր N, A և B, ամբողջ թվերի համար, և նրանց համար ապահովել {set get} մեթոդները կարճ գրելաձևով,
     * ստեղծել private FillMatrix անունեով մեթոդ, որը կլրացնի մատրիցայի արժեքները [A, B] միջակայքից պատական թվերով
